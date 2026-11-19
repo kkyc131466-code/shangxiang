@@ -18,7 +18,7 @@ cron: 10 9,10 * * *
 2025/8/27   V1.4    修改默认域名
 """
 
-DEFAULT_HOST = "sxsy21.com" # 默认域名
+DEFAULT_HOST = "sxsy33.com" # 默认域名
 
 import requests
 import os
